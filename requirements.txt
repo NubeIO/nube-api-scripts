@@ -1,0 +1,3 @@
+
+-e git+https://github.com/NubeIO/rubix-rest-client-python@master#egg=rubix
+-e git+https://github.com/NubeIO/py-chirpstack@master#egg=py-chirpstack
